@@ -4,7 +4,7 @@
 
 ![](mrrobot.jpg)
 
-You can open the image you've been givin with a something the let's you have a look into the binary of the file.
+You can open the image you've been givin with something the let's you have a look into the binary of the file.
 In it you will notice that the flag is visible in plain text within the first few bytes.
 
 ![](hex_table.png)
